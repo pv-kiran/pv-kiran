@@ -7,7 +7,6 @@ Javascript Developer
 I am a javascript developer who loves React
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My works](http://pv-kiran.netlify.app)
 * ✉️  You can contact me at [kiranpv903@gmail.com](mailto:kiranpv903@gmail.com)
 * 🚀  I'm currently working on [HomeLand](http://homeland-theta.vercel.app)
 * 🧠  I'm learning React
